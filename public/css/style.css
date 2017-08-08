@@ -1,0 +1,55 @@
+body{
+    background-repeat: no-repeat;
+    background-size: auto;
+
+}
+
+.alphaBox{
+    border: none;
+    background-color: lightgray;
+    opacity: 0.5;
+           }
+
+.Txt{
+    margin: 5%;
+    font-weight: bold;
+    color: #000000;
+             }
+#plsLoginTxt{
+    padding:0.1em;
+}
+#plsSignUpTxt{
+    padding:0.1em;
+}
+
+#hw{
+    background-image: url('../images/large (1).jpg');
+    font-size: 250%;
+    background-repeat: no-repeat;
+    font-weight: normal;
+    color: #999966;
+    background-size: cover;
+}
+
+.center{
+    align-content: center;
+}
+
+a:link{
+    color: #999966;
+}
+
+a:hover{
+    font-weight: bolder;
+    text-decoration: none;
+    color: #ffffff !important;
+
+    }
+a:visited{
+    color: #3d3d29;
+}
+
+.textSize{
+    font-size: 3em;
+}
+
